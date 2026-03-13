@@ -25,5 +25,5 @@ https://www.figma.com/proto/kYgjPVe9JtfbmOZ5Ec8Kq7/UI-UX-Fluent-Prototype?page-i
 Youtube Link :
 https://www.youtube.com/watch?v=tXEP-t7kDLM
 
-Fluent Repot :
+Fluent Report :
 [Link to File](https://github.com/vescentongit/Fluent-UI-UX-Prototype/blob/47ba293079f1c23eae640d35fcf1fbc0f75e04bb/Fluent%20by%20blukutuk77.pdf)
