@@ -18,3 +18,6 @@ The adoption of digital payment has skyrocketed in recent years. However, financ
 
 Figma Link :
 https://www.figma.com/design/kYgjPVe9JtfbmOZ5Ec8Kq7/UI-UX-Fluent-Prototype?node-id=0-1&t=FXmHfsLf1KgkQkUo-1
+
+Figma Prototype Link :
+https://www.figma.com/proto/kYgjPVe9JtfbmOZ5Ec8Kq7/UI-UX-Fluent-Prototype?page-id=0%3A1&node-id=1-2&viewport=366%2C288%2C0.24&t=tnf9Ktaq9SZRc2lF-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2&show-proto-sidebar=1
