@@ -1,4 +1,4 @@
-# Fluent-UI-UX-Prototype
+![image alt](https://github.com/vescentongit/Fluent-UI-UX-Prototype/blob/a36176be46ca42386cf32b9364f0713e84d3bc20/f9a376fa-352f-4be0-b101-031ebd5fcbd3.png)
 
 Fluent's UI/UX Prototype for BORNEO HackWKND
 
