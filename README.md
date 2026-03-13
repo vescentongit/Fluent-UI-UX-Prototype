@@ -7,11 +7,11 @@ Project Name : Fluent
 Tagline : Be Fluent with money. Be Fluent with life.
 
 Team Members :
-Shaquille Nathan Kalevi
-Muhammad Orkhan
-Rafel Dzinnun Muhammad
-Bagas Anugerah Putra
-Muhammad Zaky Amani
+Shaquille Nathan Kalevi,
+Muhammad Orkhan,
+Rafel Dzinnun Muhammad,
+Bagas Anugerah Putra,
+Muhammad Zaky Amani.
 
 Brief Summary :
 The adoption of digital payment has skyrocketed in recent years. However, financial literacy remains at a very low level, especially in ASEAN countries. Although e-wallets and Paylater services have become dominant and are frequently used by the public, users often do not understand basic concepts such as compound interest or emergency preparedness. This has created a significant disaster protection gap, where the average user lacks liquid emergency funds or sufficient insurance to cope with regional risks such as economic volatility. Fluent is an AI-based Financial Assistant app that shifts from passive expense tracking to active behavior training. By leveraging a “Personal Financial Digital Twin” model, Fluent builds long term resilience through real-time guidance and predictive simulation.
